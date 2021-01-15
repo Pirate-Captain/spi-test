@@ -1,7 +1,10 @@
-
 .idea
 spi-moudle-a/spi-moudle-a.iml
 spi-application/spi-application.iml
 spi-moudle-b/spi-moudle-b.iml
 spi-service/spi-service.iml
 spi-test.iml
+spi-moudle-a/target/
+spi-service/target/
+spi-application/target/
+spi-moudle-b/target/
